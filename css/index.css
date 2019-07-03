@@ -1,0 +1,19 @@
+body{
+	background-image: url("../img/background.gif");
+	font-weight: bold;
+}
+
+.playground{
+	width: 70%;
+	height: 700px;
+	display: block;
+	margin: 0 auto;
+}
+
+a{
+	color: white;
+	font-size: 20px;
+}
+a:hover{
+	color: lime;
+}
